@@ -1,0 +1,129 @@
+Course
+Frameworks
+Oops
+$2000
+F
+Students
+90001 - Sreenidhi Madala
+2
+3.3
+90002 - varsha vellanki
+2
+3.2
+90003 - joe tribioyni
+1
+0.0
+90004 - Sathya Rajesh
+3
+3.8
+90005 - pheoby buffey
+4
+2.8
+90010 - Ross Geller
+1
+0.0
+90009 - Rachel Ross
+4
+3.8
+Staff
+Bandi Ajay
+Professor
+Konda Harish
+GRAD_ASSISTANT
+Bandi Ajay
+Director
+Course
+Advance Data Base
+DATABASE
+$1800
+ADB
+Students
+90022 - Praneeth kumar
+2
+3.2
+90021 - Ranga Chaitanya
+1
+0.0
+Staff
+Chen Quen
+Professor
+Ram Rahim
+GRAD_ASSISTANT
+Bandi Ajay
+Director
+Course
+GDP-1
+Oops
+$1850
+F
+Students
+90003 - Sreenidhi Madala
+2
+3.3
+90002 - vasavi sri
+2
+3.2
+90003 - nitya tribioyni
+1
+0.0
+Staff
+Bandi Ajay
+Professor
+Konda priyanka
+GRAD_ASSISTANT
+Course
+GDP-2
+GDP_1
+$2047
+GDP_2
+Students
+90001 - Sreen Madala
+3
+3.3
+81002 - Chris Hemsworth
+3
+3.2
+81001 - Mark rachel
+4
+3.1
+81010 - Chris Evans
+3
+3.2
+91010 - Scarlett Johansson
+1
+0.0
+91020 - Don Cheadle
+4
+3.9
+61710 - Benedict Cumberbatch
+2
+2.8
+920111 - Tom Holland
+1
+0.0
+Staff
+pen Dakota
+Professor
+Katerin Tresa
+GRAD_ASSISTANT
+Bandi Ajay
+Director
+Course
+MOBILE_COMPUTING
+OOPS
+1830.9 USD
+F
+Students
+90002 - Sreenidhi Madala
+2
+3.3
+90001 - Anu Sharma
+3
+3.7
+Staff
+ram Ajay
+Professor
+kaki kathi
+GRAD_ASSISTANT
+case denis
+Director

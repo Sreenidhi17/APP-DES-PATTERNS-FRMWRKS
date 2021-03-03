@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"courses"},{"l":"enums"},{"l":"madala_framework"}]
